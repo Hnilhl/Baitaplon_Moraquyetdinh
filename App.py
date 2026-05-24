@@ -4,8 +4,8 @@ AIDEOM-VN — AI-Driven Decision Optimization Model for Vietnam
 Web app giải 12 bài toán mô hình ra quyết định phát triển kinh tế Việt Nam
 trong kỉ nguyên AI — dữ liệu thực 2020-2025.
 
-Họ và tên : Nguyễn Bảo Khánh
-Mã sinh viên: 23051266
+Họ và tên : Đỗ Hoài Linh
+Mã sinh viên: 23051285
 Bài tập lớn: Các mô hình ra quyết định
 
 Chạy:  streamlit run app.py
@@ -181,8 +181,8 @@ with st.sidebar:
     st.markdown("---")
     st.markdown(
         '<div class="sidebar-id">'
-        '<b>Họ và tên:</b> Nguyễn Bảo Khánh<br>'
-        '<b>Mã sinh viên:</b> 23051266<br>'
+        '<b>Họ và tên:</b> Đỗ Hoài Linh<br>'
+        '<b>Mã sinh viên:</b> 23051285<br>'
         '<b>Bài tập lớn:</b> Các mô hình ra quyết định'
         '</div>', unsafe_allow_html=True)
     st.caption("Dữ liệu: NSO, MoST, MIC, MPI, WB, GII 2025")
